@@ -55,7 +55,7 @@
 ### Требования к результату
 - [ ] приложите скриншот браузера с открытым эндпоинтом, а также скриншот списка таргетов из интерфейса Prometheus.*
 
-![img](https://github.com/Dokukin1/Prometheus/blob/main/img/c.png)
 ![img](https://github.com/Dokukin1/Prometheus/blob/main/img/d.png)
+![img](https://github.com/Dokukin1/Prometheus/blob/main/img/f.png)
 
 
